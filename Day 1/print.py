@@ -1,2 +1,3 @@
 name = "mgbhone"
-print ("hello"+ " " + name)
+ages = 21
+print ("hello"+ " " + name + " " + "your age is" + " " + str(ages))
