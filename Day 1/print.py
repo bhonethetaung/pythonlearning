@@ -1,1 +1,2 @@
-print ("hello")
+name = "mgbhone"
+print ("hello"+ " " + name)
